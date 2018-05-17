@@ -11,3 +11,17 @@ body{
     background-image: url("https://wallpaper-house.com/data/out/4/wallpaper2you_29478.jpg");
   
 }
+.twoimg{
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+#catimg1, #catimg2{
+    display: block;
+    width: 200px;
+    height: 100px;
+}
