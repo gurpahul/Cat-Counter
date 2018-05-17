@@ -3,5 +3,11 @@ h1{
 }
 
 #conatiner{
-    text-align: center
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-image: url("http://globalmedicalco.com/photos/globalmedicalco/6/28246.jpg");
+  
 }
