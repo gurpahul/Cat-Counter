@@ -1,6 +1,9 @@
-const cat = document.querySelector('#catimg')
-const count = document.querySelector('#click')
+document.addEventListener("DOMContentLoaded", () => {
 
-cat.addEventListener('click', function(){
-count.innerHTML++
+    const cat = document.querySelector('#catimg')
+    const count = document.querySelector('#click')
+    
+    cat.addEventListener('click', function(){
+    count.innerHTML++
+    })
 })
