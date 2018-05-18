@@ -4,24 +4,33 @@ h1{
 
 #conatiner{
     text-align: center;
-    color: white;
+    color: black;
 }
 
-body{
-    background-image: url("https://wallpaper-house.com/data/out/4/wallpaper2you_29478.jpg");
-  
-}
+
 .twoimg{
     position: absolute;
     width: 800px;
     height: 500px;
-    display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     
 }
-#catimg1, #catimg2{
+#catimg1, #catimg2,#catimg3,#catimg4,#catimg5{
     display: block;
     width: 200px;
     height: 100px;
 }
+.div3{
+    
+    width: 700px;
+    margin: auto;
+    display: flex;
+}
+div{
+    width: 1000px;
+}
+#bigimg1{
+    padding: 100px;
+}
+
