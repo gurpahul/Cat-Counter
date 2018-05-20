@@ -6,7 +6,9 @@ h1{
     text-align: center;
     color: black;
 }
-
+body{
+    margin: auto;
+}
 
 .twoimg{
     position: absolute;
@@ -20,6 +22,7 @@ h1{
     display: block;
     width: 200px;
     height: 100px;
+    padding: 10px
 }
 .div3{
     
